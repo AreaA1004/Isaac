@@ -1,4 +1,4 @@
-pip install ./asciimatics-1.14.0.zip
+pip install asciimatics-1.14.0.zip
 
 from asciimatics.effects import Print
 from asciimatics.renderers import FigletText, Rainbow
